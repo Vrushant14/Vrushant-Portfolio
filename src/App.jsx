@@ -7,6 +7,7 @@ function App () {
   return (
     <>
       <Sidenav />
+      <h1>Hello World</h1>
     </>
   )
 }
