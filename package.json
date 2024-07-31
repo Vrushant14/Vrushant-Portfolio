@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://username.github.io/Vrushant-Portfolio",
+  "homepage": "https://vrushant14.github.io/Vrushant-Portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run dev",
