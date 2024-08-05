@@ -8,6 +8,7 @@ function App () {
     <>
       <Sidenav />
       <h1>Hello World</h1>
+      <h2>My Name is Vrushant</h2>
     </>
   )
 }
